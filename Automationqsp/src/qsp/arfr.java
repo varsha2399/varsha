@@ -1,6 +1,6 @@
 package qsp;
 
 public class arfr {
-  System.out.println(hello);
+  System.out.println(hi);
 
 }
